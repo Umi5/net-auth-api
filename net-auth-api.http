@@ -1,0 +1,6 @@
+@net_auth_api_HostAddress = http://localhost:5293
+
+GET {{net_auth_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
