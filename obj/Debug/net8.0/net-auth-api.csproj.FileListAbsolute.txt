@@ -35,3 +35,8 @@ C:\Dev\.NET\net-auth-api\obj\Debug\net8.0\net-auth-api.pdb
 C:\Dev\.NET\net-auth-api\obj\Debug\net8.0\net-auth-api.genruntimeconfig.cache
 C:\Dev\.NET\net-auth-api\obj\Debug\net8.0\ref\net-auth-api.dll
 C:\Dev\.NET\net-auth-api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Dev\.NET\net-auth-api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dev\.NET\net-auth-api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\.NET\net-auth-api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\.NET\net-auth-api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\.NET\net-auth-api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
