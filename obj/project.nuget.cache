@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ewCPiV8r5pNMxuLhRkpmvyzWq6yweZHjqqoPuXAtxAIxrshUcZZqKGiDwGuN0Elf8fg5YWQ1eR6Hfw1o6dvPcQ==",
+  "dgSpecHash": "aTQCjCfuQfh1elNNKP9imxebfqn992Q4X7RDQVVlqg9aSRERvQIVDMplegW5NZHZL7UThykI7IdtF+5Wmydn8w==",
   "success": true,
   "projectFilePath": "C:\\Dev\\.NET\\net-auth-api\\net-auth-api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mbusquie\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\mbusquie\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
     "C:\\Users\\mbusquie\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
     "C:\\Users\\mbusquie\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.3\\microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
