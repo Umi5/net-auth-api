@@ -29,6 +29,7 @@ namespace net_auth_api.Controllers
                 BCrypt.Net.BCrypt.HashPassword(request.Pasword);
 
             user.Username = request.Username;
+            user.Email = request.Email;
             user.PaswordHash = passwordHash;
 
             return Ok(user);
@@ -53,7 +54,8 @@ namespace net_auth_api.Controllers
 
         private string CreateToken(User user){
             List<Claim> claims = new List<Claim> {
-                new Claim(ClaimTypes.Name, user.Username)
+                new Claim(ClaimTypes.Name, user.Username),
+                new Claim(ClaimTypes.Email, user.Email)
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration.GetSection("AppSettings:Token").Value!));
