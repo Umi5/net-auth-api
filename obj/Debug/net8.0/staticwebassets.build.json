@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0VdrRpI3Hp3kkN5gGClTxjmThrOW7ugDdgoLsgEJvJc=",
+  "Source": "net-auth-api",
+  "BasePath": "_content/net-auth-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

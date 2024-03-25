@@ -1009,19 +1009,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\manu0\\.nuget\\packages\\": {}
+    "C:\\Users\\mbusquie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\.NET\\net-auth-api\\net-auth-api.csproj",
+      "projectUniqueName": "C:\\Dev\\.NET\\net-auth-api\\net-auth-api.csproj",
       "projectName": "net-auth-api",
-      "projectPath": "C:\\DEV\\.NET\\net-auth-api\\net-auth-api.csproj",
-      "packagesPath": "C:\\Users\\manu0\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\.NET\\net-auth-api\\obj\\",
+      "projectPath": "C:\\Dev\\.NET\\net-auth-api\\net-auth-api.csproj",
+      "packagesPath": "C:\\Users\\mbusquie\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\.NET\\net-auth-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\manu0\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mbusquie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1078,7 +1078,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
